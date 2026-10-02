@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Job &amp; Internship Tracker</string>
+    <string name="title_activity_main">Job &amp; Internship Tracker</string>
+    <string name="package_name">com.jobinternship.tracker</string>
+    <string name="custom_url_scheme">com.jobinternship.tracker</string>
+</resources>

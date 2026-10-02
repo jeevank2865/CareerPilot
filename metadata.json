@@ -1,0 +1,8 @@
+{
+  "name": "Job & Internship Tracker",
+  "description": "A comprehensive personal application tracking system for jobs and internships with interview feedback, stages, resume storage, analytics, and timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
