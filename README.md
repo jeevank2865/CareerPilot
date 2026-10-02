@@ -2,7 +2,11 @@
 
 A modern, full-featured career application management system designed to track jobs, internships, interview rounds, assessments, deadlines, notes, and resumes with automated multi-stage reminders and analytics.
 
----
+## 🚀 Live Demo
+
+👉 **[Try Job & Internship Tracker](https://ais-pre-cnicwgfalokv3lgttj4tko-705269896616.asia-southeast1.run.app)**
+
+Explore the live application and manage your complete job and internship application journey in one place.
 
 ## 🌟 Key Features
 
